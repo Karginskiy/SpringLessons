@@ -45,3 +45,15 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.bin
+.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_1_7.xml
+*.xml
+.idea/modules/com.karginnikita.springlessons_test.iml
+*.properties
+*.jar
+gradlew
+*.bat
+build/classes/main/hello/Application.class
+*.class
+*.iml
+.gradle/2.9/taskArtifacts/cache.properties.lock
